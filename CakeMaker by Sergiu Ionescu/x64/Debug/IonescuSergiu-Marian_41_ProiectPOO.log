@@ -1,0 +1,5 @@
+﻿  MAIN.cpp
+D:\ANUL II\IonescuSergiu-Marian_41_ProiectPOO\CarouselOfCakes.h(65,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\ANUL II\IonescuSergiu-Marian_41_ProiectPOO\CarouselOfCakes.h(85,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ANUL II\IonescuSergiu-Marian_41_ProiectPOO\CommandTaker.h(45): warning C4172: returning address of local variable or temporary: prajitura
+  IonescuSergiu-Marian_41_ProiectPOO.vcxproj -> D:\ANUL II\IonescuSergiu-Marian_41_ProiectPOO\x64\Debug\IonescuSergiu-Marian_41_ProiectPOO.exe
